@@ -6,6 +6,14 @@ This project, developed for the Data Sorting and Searching course under Professo
 
 The significance of this project lies in its real-world applicability, simulating a recommendation or analysis system for sports data. It integrates complex data structures (Hash Tables, TRIE, and custom indexing) with sorting mechanisms to handle large datasets efficiently, preparing students for challenges in data science, database management, and algorithmic optimization. The project also encourages innovation through optional graphical interfaces and new query types, fostering creativity and practical problem-solving.
 
+## Importance of the Project
+
+This project is a cornerstone of the Data Sorting and Searching course, demonstrating the practical application of advanced data structures and algorithms. It mirrors real-world systems like sports analytics platforms, search engines, or recommendation systems, where efficient data retrieval and sorting are critical. By handling a large dataset (over 400MB for ratings), it prepares students for big data challenges, emphasizing:
+- **Scalability**: Managing millions of records with optimized structures.
+- **Performance**: Balancing preprocessing and query response times.
+- **Algorithmic Thinking**: Combining multiple data structures (Hash, TRIE) and sorting techniques for complex queries.
+- **Innovation**: Encouraging bonuses for fast preprocessing, graphical interfaces, or new queries, fostering creativity.
+
 ## Project Structure
 
 The project processes three main datasets:
@@ -81,14 +89,6 @@ The code is implemented in **Python**, emphasizing custom data structures and al
 - **Modularity**: Separates data structure initialization, query processing, and output formatting for maintainability.
 - **Error Handling**: Validates inputs and handles edge cases (e.g., missing players or tags).
 - **Custom Implementation**: Avoids high-level libraries (e.g., dictionaries, databases) as per requirements, ensuring all structures are built from scratch.
-
-## Importance of the Project
-
-This project is a cornerstone of the Data Sorting and Searching course, demonstrating the practical application of advanced data structures and algorithms. It mirrors real-world systems like sports analytics platforms, search engines, or recommendation systems, where efficient data retrieval and sorting are critical. By handling a large dataset (over 400MB for ratings), it prepares students for big data challenges, emphasizing:
-- **Scalability**: Managing millions of records with optimized structures.
-- **Performance**: Balancing preprocessing and query response times.
-- **Algorithmic Thinking**: Combining multiple data structures (Hash, TRIE) and sorting techniques for complex queries.
-- **Innovation**: Encouraging bonuses for fast preprocessing, graphical interfaces, or new queries, fostering creativity.
 
 The project’s complexity—integrating multiple data structures, large-scale data processing, and precise sorting—makes it a significant academic and practical achievement, equipping students with skills for data-intensive applications.
 
